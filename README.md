@@ -1,40 +1,32 @@
 # Student Management System
 
-A full-stack Java web application built using JDBC, Servlets, JSP, MySQL, HTML, CSS, JavaScript, and Chart.js.
+A full-stack Student Management System built using Java, JDBC, Servlets, JSP, MySQL, HTML, CSS, JavaScript, and Chart.js.
+
+---
 
 ## Features
 
 ### Admin Module
-- Admin Login Authentication
-- Add / Update / Delete Students
-- Manage Student Records
-- Send Personal Notifications
-- Send Global Notifications
-- Create Tests & Exam Schedules
+- Admin Authentication
+- Add / Edit / Delete Students
 - Student Analytics Dashboard
-- Course-wise Pie Charts
+- Create Tests
+- Send Notifications
+- Manage Student Records
+- Course-wise Analytics
 - Top Performer Section
 
 ### Student Module
-- Student Login System
+- Student Login
 - Student Dashboard
-- Subject-wise Marks Chart
+- Subject-wise Marks Charts
 - Notifications Panel
 - Upcoming Tests
-- Skills & Achievements
 - Leave Request System
-- Download PDF Report
+- Skills & Achievements
+- Download PDF Reports
 - Download ID Card
-- Forgot Password / Reset Password
-
-### Additional Features
-- Email Integration
-- Session Management
-- Chart.js Analytics
-- Responsive Modern UI
-- File Upload System
-- Pagination & Search
-- Role-based Access
+- Forgot Password
 
 ---
 
@@ -52,42 +44,14 @@ A full-stack Java web application built using JDBC, Servlets, JSP, MySQL, HTML, 
 
 ---
 
-## Project Structure
+## Project Highlights
 
-```plaintext
-src/
-controller/
-dao/
-model/
-util/
-webapp/
-```
-
----
-
-## Demo Video
-
-[Watch Project Demo](./demo/studentManagementSystemVideo.mp4)
-
----
-
-## Screenshots
-
-### Admin Dashboard
-(Add screenshot here)
-
-### Student Dashboard
-(Add screenshot here)
-
----
-
-## Future Enhancements
-
-- Attendance Management
-- GPA Calculation
-- Student Registration Portal
-- AI-based Performance Insights
-- Online Exam Module
+- Full-stack Java web application
+- Responsive Admin & Student UI
+- Authentication & Session Management
+- Email Notification Integration
+- Dynamic Charts & Analytics
+- Real-world Dashboard Features
 
 ---
 
